@@ -1,0 +1,31 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="Pairo"> 
+        <version>5.0.0.1</version> 
+        <url>http://lfsturkey.net/forum/guncelleme/Pairo.exe</url> 
+        <fileName>Pairo.exe</fileName> 
+        <md5>89b71e7b44069563ba63945ed1f684d1</md5>
+        <description>Güncelleme: 07/01/2019 V5.0.0.1;
+1.Üyelik kayıt ve girişler aktif edildi.
+Güncelleme: 07/01/2019 V5.0.0.0;
+1.Vote end kaldırıldı.
+Güncelleme: 22/06/2017;
+1.Sistemsel hatalar iyileştirildi.
+2.Performans düzeltmeleri.
+3.Reklam ağı ayarları eklenildi.
+4.Kütüphane güncellemeleri.
+5.Mysql ağ paneli geliştirildi.
+6.Hata ve Buglar giderildi.
+7.Sonradan sorun olacak bilecek bazı hatalar fix.
+8.Uzaktan reklam ağı değiştirme eklenildi.
+9.Uzak bağlantı ayarları fix.
+10.Sistemsel açıklar giderildi.
+11.Description düzenlendi.
+12.Copyright hakları düzenlendi.
+13.Assembly versiyon güncellendi.
+14.File versiyon güncellendi.
+15.Company hakları düzeltildi.
+</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
