@@ -1,5 +1,6 @@
 # 2016Gezinti
  
+ açık kaynak düzenleme yapmak için discorddan benimle iletişime geçin Emirhan PALA#3240
 
 crack serverler için giriş sistemi ile korunan içerisinde bir sürü özel aracın ekli olduğu sistem bunu istiyorsanız şartlar var yerine getirmeniz gereken.
 
